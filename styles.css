@@ -1,0 +1,27 @@
+
+.container {
+    width: 350px;
+    border: 1px solid #dddddd;
+    padding: 12px;
+    box-shadow:5px 5px 5px #dddddd ;
+}
+
+.card-content {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+img {
+    width: 100%;
+    margin: 12px 0;
+}
+
+ul {
+    list-style: none;
+    text-align: start;
+    padding: 0;
+}
+
+li span {
+    font-weight: bold;
+}
